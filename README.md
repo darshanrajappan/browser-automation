@@ -1,1 +1,1 @@
-# browser-automation-template
+# browser-automation
